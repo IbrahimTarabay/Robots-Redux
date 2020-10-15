@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Robots-Redux/static/css/main.570d333c.chunk.css",
-    "main.js": "/Robots-Redux/static/js/main.daf63739.chunk.js",
-    "main.js.map": "/Robots-Redux/static/js/main.daf63739.chunk.js.map",
+    "main.js": "/Robots-Redux/static/js/main.11cbe532.chunk.js",
+    "main.js.map": "/Robots-Redux/static/js/main.11cbe532.chunk.js.map",
     "runtime-main.js": "/Robots-Redux/static/js/runtime-main.d6489418.js",
     "runtime-main.js.map": "/Robots-Redux/static/js/runtime-main.d6489418.js.map",
     "static/css/2.3b6f1bda.chunk.css": "/Robots-Redux/static/css/2.3b6f1bda.chunk.css",
     "static/js/2.beac1885.chunk.js": "/Robots-Redux/static/js/2.beac1885.chunk.js",
     "static/js/2.beac1885.chunk.js.map": "/Robots-Redux/static/js/2.beac1885.chunk.js.map",
     "index.html": "/Robots-Redux/index.html",
-    "precache-manifest.109d8f5b14af0631bba6ac74e7a658c6.js": "/Robots-Redux/precache-manifest.109d8f5b14af0631bba6ac74e7a658c6.js",
+    "precache-manifest.a4109aae3f3aba424e3b1f0d6bf326c8.js": "/Robots-Redux/precache-manifest.a4109aae3f3aba424e3b1f0d6bf326c8.js",
     "service-worker.js": "/Robots-Redux/service-worker.js",
     "static/css/2.3b6f1bda.chunk.css.map": "/Robots-Redux/static/css/2.3b6f1bda.chunk.css.map",
     "static/css/main.570d333c.chunk.css.map": "/Robots-Redux/static/css/main.570d333c.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3b6f1bda.chunk.css",
     "static/js/2.beac1885.chunk.js",
     "static/css/main.570d333c.chunk.css",
-    "static/js/main.daf63739.chunk.js"
+    "static/js/main.11cbe532.chunk.js"
   ]
 }
