@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Robots-Redux/static/css/main.2dbf7fa3.chunk.css",
-    "main.js": "/Robots-Redux/static/js/main.c586b926.chunk.js",
-    "main.js.map": "/Robots-Redux/static/js/main.c586b926.chunk.js.map",
-    "runtime-main.js": "/Robots-Redux/static/js/runtime-main.acf1e9c5.js",
-    "runtime-main.js.map": "/Robots-Redux/static/js/runtime-main.acf1e9c5.js.map",
+    "main.css": "/Robots-Redux/static/css/main.570d333c.chunk.css",
+    "main.js": "/Robots-Redux/static/js/main.daf63739.chunk.js",
+    "main.js.map": "/Robots-Redux/static/js/main.daf63739.chunk.js.map",
+    "runtime-main.js": "/Robots-Redux/static/js/runtime-main.d6489418.js",
+    "runtime-main.js.map": "/Robots-Redux/static/js/runtime-main.d6489418.js.map",
     "static/css/2.3b6f1bda.chunk.css": "/Robots-Redux/static/css/2.3b6f1bda.chunk.css",
-    "static/js/2.d374cb4c.chunk.js": "/Robots-Redux/static/js/2.d374cb4c.chunk.js",
-    "static/js/2.d374cb4c.chunk.js.map": "/Robots-Redux/static/js/2.d374cb4c.chunk.js.map",
+    "static/js/2.beac1885.chunk.js": "/Robots-Redux/static/js/2.beac1885.chunk.js",
+    "static/js/2.beac1885.chunk.js.map": "/Robots-Redux/static/js/2.beac1885.chunk.js.map",
     "index.html": "/Robots-Redux/index.html",
-    "precache-manifest.6ee07e06b1a3bc7d6d10a530e65a614e.js": "/Robots-Redux/precache-manifest.6ee07e06b1a3bc7d6d10a530e65a614e.js",
+    "precache-manifest.b9f7e0ff041b0648afaf1040e33e6320.js": "/Robots-Redux/precache-manifest.b9f7e0ff041b0648afaf1040e33e6320.js",
     "service-worker.js": "/Robots-Redux/service-worker.js",
     "static/css/2.3b6f1bda.chunk.css.map": "/Robots-Redux/static/css/2.3b6f1bda.chunk.css.map",
-    "static/css/main.2dbf7fa3.chunk.css.map": "/Robots-Redux/static/css/main.2dbf7fa3.chunk.css.map",
-    "static/js/2.d374cb4c.chunk.js.LICENSE.txt": "/Robots-Redux/static/js/2.d374cb4c.chunk.js.LICENSE.txt",
+    "static/css/main.570d333c.chunk.css.map": "/Robots-Redux/static/css/main.570d333c.chunk.css.map",
+    "static/js/2.beac1885.chunk.js.LICENSE.txt": "/Robots-Redux/static/js/2.beac1885.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Robots-Redux/static/media/SEGA.12a3db8b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.acf1e9c5.js",
+    "static/js/runtime-main.d6489418.js",
     "static/css/2.3b6f1bda.chunk.css",
-    "static/js/2.d374cb4c.chunk.js",
-    "static/css/main.2dbf7fa3.chunk.css",
-    "static/js/main.c586b926.chunk.js"
+    "static/js/2.beac1885.chunk.js",
+    "static/css/main.570d333c.chunk.css",
+    "static/js/main.daf63739.chunk.js"
   ]
 }
