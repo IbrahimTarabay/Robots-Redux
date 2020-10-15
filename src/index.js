@@ -7,7 +7,7 @@ import { createLogger } from 'redux-logger';
 import 'tachyons';
 
 import App from './containers/App';
-import registerServiceWorker from './registerServiceWorker';
+import * as serviceWorker from './serviceWorker';
 import { requestRobots, searchRobots } from './redux/reducers'
 
 import './index.css';
@@ -25,4 +25,4 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
-registerServiceWorker();
+serviceWorker.unregister()
